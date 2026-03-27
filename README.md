@@ -1,8 +1,8 @@
 ![Banner](./banner.png)
 
-#                                    Hi 👋, I'm Saurav Kumar
+#  <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 
-  🚀 **Passionate about Data Science, AI/ML, and Building Real-World Intelligent Systems**
+# <h1 align="center">🚀 **Passionate about Data Science, AI/ML, and Building Real-World Intelligent Systems**
 
 <table>
 <tr>
