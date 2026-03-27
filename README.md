@@ -1,8 +1,8 @@
 ![Banner](./banner.png)
 
-#                          Hi 👋, I'm Saurav Kumar
+#                                    Hi 👋, I'm Saurav Kumar
 
-🚀 **Passionate about Data Science, AI/ML, and Building Real-World Intelligent Systems**
+  🚀 **Passionate about Data Science, AI/ML, and Building Real-World Intelligent Systems**
 
 ### 🎓 About Me
 * 🎓 B.Tech Computer Science student at MIT ADT University
@@ -11,6 +11,7 @@
 * 📊 Love turning raw data into meaningful insights
 * ⚡ Interested in AI Agents, Automation & Scalable Systems
 * 🌱 Currently learning Advanced ML, MLOps & System Design
+  
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -33,7 +34,7 @@
 
 ### 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurav526E\&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurav526\&theme=tokyo-night)
 
 ---
 
@@ -59,6 +60,3 @@
 > *"Turning data into intelligence — building systems that learn, adapt, and evolve."*
 
 
-
-- ⚡ Fun fact: ...
--->
