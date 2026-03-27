@@ -11,10 +11,10 @@
 * 📊 Love turning raw data into meaningful insights
 * ⚡ Interested in AI Agents, Automation & Scalable Systems
 * 🌱 Currently learning Advanced ML, MLOps & System Design
-  </td>
+</td>
 
 <td width="40%">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </td>
 
 </tr>
