@@ -4,17 +4,23 @@
 
   🚀 **Passionate about Data Science, AI/ML, and Building Real-World Intelligent Systems**
 
-### 🎓 About Me
-* 🎓 B.Tech Computer Science student at MIT ADT University
-* 🎓 Data Science & AI/ML Enthusiast
-* 🤖 Working on Machine Learning & Deep Learning Projects
-* 📊 Love turning raw data into meaningful insights
-* ⚡ Interested in AI Agents, Automation & Scalable Systems
-* 🌱 Currently learning Advanced ML, MLOps & System Design
-</td>
+<table>
+<tr>
 
 <td width="40%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img src= "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</td>
+
+<td width="60%">
+
+### 🎓 About Me
+- 🎓 B.Tech Computer Science student  
+- 🤖 Data Science & AI/ML Enthusiast  
+- 🧠 Working on ML & Deep Learning Projects  
+- 📊 Love turning data into meaningful insights  
+- ⚡ Interested in AI Agents & Automation  
+- 🌱 Learning Advanced ML, MLOps & System Design  
+
 </td>
 
 </tr>
