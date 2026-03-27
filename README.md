@@ -1,16 +1,64 @@
-## Hi there 👋
+![Banner](./banner.png)
 
-<!--
-**saurav526/saurav526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#                          Hi 👋, I'm Saurav Kumar
 
-Here are some ideas to get you started:
+🚀 **Passionate about Data Science, AI/ML, and Building Real-World Intelligent Systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+### 🎓 About Me
+* 🎓 B.Tech Computer Science student at MIT ADT University
+* 🎓 Data Science & AI/ML Enthusiast
+* 🤖 Working on Machine Learning & Deep Learning Projects
+* 📊 Love turning raw data into meaningful insights
+* ⚡ Interested in AI Agents, Automation & Scalable Systems
+* 🌱 Currently learning Advanced ML, MLOps & System Design
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+
+### 📊 GitHub Stats
+
+![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurav526\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav526\&layout=compact\&theme=tokyonight)
+
+---
+
+### 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurav526E\&theme=tokyo-night)
+
+---
+
+### 🔥 Featured Projects
+
+* 🤖 AI/ML Projects
+* 📊 Data Analysis Dashboards
+* 🧠 Deep Learning Models
+* ⚙️ Automation & Intelligent Systems
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/saurav-kumar-a90827323/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlfXCkyoZS%2Fq%2BkVq74Q%2Bg5A%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fmaps.apple.com%2Fplace%3Faddress%3Dsauravtiwari2712005%2540gmail.com&urlhash=yooy&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlfXCkyoZS%2Fq%2BkVq74Q%2Bg5A%3D%3D)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/saurav526)
+
+---
+
+### ✨ Signature
+
+> *"Turning data into intelligence — building systems that learn, adapt, and evolve."*
+
+
+
 - ⚡ Fun fact: ...
 -->
