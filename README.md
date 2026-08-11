@@ -40,9 +40,9 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=saurav526&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-cyan-omega-80.vercel.app/api?username=saurav526&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saurav526&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-cyan-omega-80.vercel.app/api/top-langs/?username=saurav526&layout=compact&theme=tokyonight)
 
 ---
 
