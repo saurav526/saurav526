@@ -83,22 +83,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophies](https://github-profile-trophy.vercel.app/?username=saurav526&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-### 📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurav526&theme=tokyo-night&hide_border=true)
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -106,8 +90,6 @@
 ![snake gif](https://raw.githubusercontent.com/saurav526/saurav526/output/github-contribution-grid-snake.svg)
 
 </div>
-
-> This turns your contribution graph into an animated snake. It needs a one-time GitHub Action added to this repo — see the setup note in the HTML comment at the bottom of this file.
 
 ---
 
@@ -166,36 +148,4 @@
 
 </div>
 
-<!--
-SETUP NOTES (small one-time steps to fully light up two sections above):
 
-1. Snake animation — add this file as .github/workflows/snake.yml in saurav526/saurav526:
-
-   name: generate-snake
-   on:
-     schedule:
-       - cron: "0 */12 * * *"
-     workflow_dispatch: {}
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: saurav526
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   After the first run completes, the snake SVG referenced above will render automatically.
-
-2. Streak stats card now uses streak-stats.demolab.com, which reads directly from
-   your public GitHub contribution data — no linking or setup required.
--->
