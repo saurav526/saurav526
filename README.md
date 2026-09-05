@@ -68,8 +68,7 @@
 
 ### 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurav526&theme=tokyo-night)
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saurav526&theme=tokyo-night)
 ---
 
 ### 🔥 Featured Projects
