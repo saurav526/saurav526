@@ -60,15 +60,15 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-cyan-omega-80.vercel.app/api?username=saurav526&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=saurav526&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-cyan-omega-80.vercel.app/api/top-langs/?username=saurav526&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=saurav526&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurav526\&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurav526&theme=tokyo-night)
 
 ---
 
