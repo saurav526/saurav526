@@ -28,7 +28,7 @@
 - 🤖 Data Science & AI/ML Enthusiast  
 - 🧠 Working on ML & Deep Learning Projects  
 - 📊 Love turning data into meaningful insights  
-- ⚡ Interested in AI Agents & Automation  
+- ⚡ Interested in AI Agents & Automation 
 - 🌱 Learning Advanced ML, MLOps & System Design  
 
 </td>
