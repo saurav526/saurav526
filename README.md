@@ -111,7 +111,7 @@
 | 🔗 **LangChain Projects** — LLM/agent workflows built with LangChain | Jupyter Notebook | [Repo](https://github.com/saurav526/LANGCHAIN-) |
 | ✨ **Gen AI Projects** — generative AI experiments | Jupyter Notebook | [Repo](https://github.com/saurav526/GEN-AI-projects) |
 
-*See all 41 repositories → [github.com/saurav526?tab=repositories](https://github.com/saurav526?tab=repositories)*
+*See all repositories → [github.com/saurav526?tab=repositories](https://github.com/saurav526?tab=repositories)*
 
 ---
 
