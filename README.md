@@ -74,6 +74,8 @@
 ![DeepEval](https://img.shields.io/badge/DeepEval-412991?style=for-the-badge&logo=python&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Guardrails AI](https://img.shields.io/badge/Guardrails_AI-2563EB?style=for-the-badge&logo=shield&logoColor=white)
+![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA_NeMo_Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### ⚙️ Backend & Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
